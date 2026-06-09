@@ -1,0 +1,57 @@
+            <!-- Profissional 7 -->
+            <div class="reveal relative h-[450px] rounded-[2rem] overflow-hidden group">
+                <img src="Pictures/Vitoria Evelyn.jpg" alt="Esteticista" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" referrerpolicy="no-referrer">
+                <div class="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent"></div>
+                <div class="absolute bottom-0 left-0 w-full p-8 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
+                    <span class="text-accent text-xs font-bold uppercase tracking-widest mb-2 block">Esteticista</span>
+                    <h3 class="text-2xl font-display font-bold">Vitória Evelyn</h3>
+                    <p class="opacity-0 group-hover:opacity-100 transition-opacity duration-500 text-sm mt-3 text-white/70">
+                        Expert em protocolos faciais para uma pele saudável, radiante, e tratamentos corporais de modelagem e firmeza, relaxamento e bem-estar, corpo e mente em equilíbrio.
+                    </p>
+                </div>
+            </div>
+\
+            <!-- Profissional 8 -->
+            <div class="reveal relative h-[450px] rounded-[2rem] overflow-hidden group" style="transition-delay: 0.1s;">
+                <img src="Pictures/Yara Oliveira.jpg" alt="Esteticista" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" referrerpolicy="no-referrer">
+                <div class="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent"></div>
+                <div class="absolute bottom-0 left-0 w-full p-8 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
+                    <span class="text-accent text-xs font-bold uppercase tracking-widest mb-2 block">Esteticista</span>
+                    <h3 class="text-2xl font-display font-bold">Yara Oliveira</h3>
+                    <p class="opacity-0 group-hover:opacity-100 transition-opacity duration-500 text-sm mt-3 text-white/70">
+                        Tratamentos estéticos personalizados para revitalizar a pele, com todo cuidado em realçar a beleza natural e promover bem-estar, com excelência e respeito.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+            <!-- Profissional 7 -->
+            <div class="reveal relative h-[450px] rounded-[2rem] overflow-hidden group" style="transition-delay: 0.1s;">
+                <img src="Pictures/Vitoria Evelyn.JPG" alt="Massoterapeuta" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" referrerpolicy="no-referrer">
+                <div class="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent"></div>
+                <div class="absolute bottom-0 left-0 w-full p-8 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
+                    <span class="text-accent text-xs font-bold uppercase tracking-widest mb-2 block">Massoterapeuta</span>
+                    <h3 class="text-2xl font-display font-bold">Isabela Freitas</h3>
+                    <p class="opacity-0 group-hover:opacity-100 transition-opacity duration-500 text-sm mt-3 text-white/70">
+                        Com técnica, sensibilidade e escuta ativa, meu objetivo é promover bem-estar, alívio de tensões e equilíbrio para corpo e mente.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Profissional 8 -->
+            <div class="reveal relative h-[450px] rounded-[2rem] overflow-hidden group">
+                <img src="Pictures/Yara Oliveira.JPG" alt="Esteticista" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" referrerpolicy="no-referrer">
+                <div class="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent"></div>
+                <div class="absolute bottom-0 left-0 w-full p-8 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
+                    <span class="text-accent text-xs font-bold uppercase tracking-widest mb-2 block">Esteticista</span>
+                    <h3 class="text-2xl font-display font-bold">Dra. Luiza Raquel</h3>
+                    <p class="opacity-0 group-hover:opacity-100 transition-opacity duration-500 text-sm mt-3 text-white/70">
+                        Formação superior em Cosmética e base científica em Química.<br>
+                        Ciência, rotina e cuidados com a pele.
+                    </p>
+                </div>
+            </div>
